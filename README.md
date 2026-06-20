@@ -3,7 +3,13 @@
 <img width="2553" height="978" alt="image" src="https://github.com/user-attachments/assets/85775d06-11a2-4c91-adc3-667102d9a8ed" />
 
 1.  Iremos iniciar uma instância através do console de gerenciamento, que será um servidor web de teste. Depois iremos testar a conectividade desse servidor web. No canto superior esquerdo, na barra de pesquisa, pesquise pelo serviço EC2.
+<img width="2558" height="974" alt="image" src="https://github.com/user-attachments/assets/30dcfb69-0bd7-4048-a41d-dfc55f169cbc" />
+<img width="2558" height="974" alt="image" src="https://github.com/user-attachments/assets/04d34b11-e35e-4fed-8a31-b49517bcad40" />
+
 2.  Clique em **“Executar instância”**. Se não aparecer o botão laranja, você pode ir no menu esquerdo, em Instâncias e depois em **"Executar instância"**.
+   <img width="2558" height="974" alt="image" src="https://github.com/user-attachments/assets/53d79676-ef28-439f-accd-1fbbaa0f81b7" />
+   
+
 3.  Preencha as informações conforme abaixo. Os campos que não forem mencionados, deixe no valor padrão:
 
 a.  **Nome**: webserver-<seu nome e sobrenome>. Não digite espaço, nem os sinais <>. Por exemplo, se seu nome for Jeff Bezos, digite webserver-JeffBezos.
